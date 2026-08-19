@@ -26,9 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# About Me
 
-Hello! My name is Jack Foreback and I am an Undergraduate Researcher graduating in 2027. I have experience using AI to model biological cells, study bias in classification, and develop brain-inspired machine learning architectures.
-I am currently looking for PhD labs working on Statistical Machine Learning Theory, especially representation learning, inference, and SSL. I love to play sports, go to the gym, read fantasy books, and write.
----
+Hello! My name is Jack Foreback and I am an Undergraduate Researcher graduating in 2027. I have experience using AI to model biological cells, study bias in classification, and develop brain-inspired machine learning architectures. I am currently looking for PhD labs working on Statistical Machine Learning Theory, especially representation learning, inference, and SSL. I love to play sports, go to the gym, read fantasy books, and write.
+
 Additionally, if you're reading this congratulations! You are one of the first to see my new website, so enjoy the broken links :).
