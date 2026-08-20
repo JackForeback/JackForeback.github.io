@@ -11,8 +11,7 @@ scholar_userid: -yf50vEAAAAJ # your Google Scholar ID
 youtube_id: JackForeback
 linkedin_username: jackforeback
 
- # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
- #   logo: link to img # can be png, svg, jpg
- #   title: title
- #   url: url
- 
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
