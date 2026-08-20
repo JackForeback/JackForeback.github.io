@@ -9,9 +9,10 @@ scholar_userid: -yf50vEAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 youtube_id: JackForeback
+linkedin_username: jackforeback
 
- custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-   logo: <a href="https://www.flaticon.com/free-icons/linked" title="linked icons">Linked icons created by Alfredo Creates - Flaticon</a> # can be png, svg, jpg
-   title: LinkedIn
-   url: www.linkedin.com/in/jackforeback
-   
+ # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+ #   logo: link to img # can be png, svg, jpg
+ #   title: title
+ #   url: url
+ 
