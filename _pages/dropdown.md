@@ -7,5 +7,5 @@ dropdown: true
 children:
   - title: blog
     permalink: /blog/
-  [//]: # (- title: divider- title: bookshelfpermalink: /books/)
+    [- title: divider- title: bookshelfpermalink: /books/]: # 
 ---
