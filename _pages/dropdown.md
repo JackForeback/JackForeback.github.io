@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Personal
+title: personal
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Blog
+  - title: blog
     permalink: /blog/
   - title: divider
-  - title: Books
+  - title: books
     permalink: /books/
 ---
