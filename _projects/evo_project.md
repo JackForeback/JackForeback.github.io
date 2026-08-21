@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: evo
 description: a short one-line summary of the project
-img: assets/img/12.jpg
+img: assets/img/placeholder.jpg
 importance: 1
-category: research
+category: fun
 ---
 
 Write your project description here. A paragraph or two covering the problem you

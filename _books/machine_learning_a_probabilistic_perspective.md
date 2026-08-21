@@ -8,5 +8,5 @@ categories: machine-learning statistics textbooks nonfiction computer-science
 released: 2012
 stars: 5
 goodreads_review:
-status: In Progress
+status: currently-reading
 ---

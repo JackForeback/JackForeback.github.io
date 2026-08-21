@@ -8,5 +8,5 @@ categories: statistics textbooks nonfiction mathematics data-science
 released: 2004
 stars: 5
 goodreads_review:
-status: In Progress
+status: to-read
 ---
