@@ -10,4 +10,3 @@ stars: 5
 goodreads_review:
 status: In Progress
 ---
-
