@@ -137,7 +137,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Jack's Blog # blog_name will be displayed in your blog page
 blog_description: Random thoughts and sometimes useful insights
-blog_nav_title: Blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
