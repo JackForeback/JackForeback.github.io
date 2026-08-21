@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: A list of my current and past projects:
 permalink: /projects/
-description: A list of my current and past projects.
+description:
 nav: true
 nav_order: 3
 display_categories: [current, research, fun]
