@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brownm
+title: Brown
 description: a short one-line summary of the project
 img: assets/img/placeholder.jpg
 importance: 1
