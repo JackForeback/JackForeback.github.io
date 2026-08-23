@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>jackforeback@gmail.com</a>
+subtitle: Ever foreward, never backward. <a href='#'>jackforeback@gmail.com</a>
 
 profile:
   align: right
