@@ -7,11 +7,10 @@ importance: 1
 category: research
 ---
 
-Write your project description here. A paragraph or two covering the problem you
-worked on, the approach you took, and what the result was is usually plenty.
-
-You can use **bold**, _italics_, and [inline links](https://example.com) as needed.
+Admittedly I had no idea what i was doing during this project, and I feel much more competent to try and 
+complete it now and kind of wish i coudl go bakc. but such is the way of research, you learn more and you move 
+on, but i feel i am far more competent now than i was when I was working on this project.
 
 ---
 
-[**Paper (PDF)**](/assets/pdf/Brown_paper.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/)
+[**Paper (PDF)**](/assets/pdf/Brown_paper.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/CIR)

@@ -7,11 +7,9 @@ importance: 1
 category: current
 ---
 
-Write your project description here. A paragraph or two covering the problem you
-worked on, the approach you took, and what the result was is usually plenty.
-
-You can use **bold**, _italics_, and [inline links](https://example.com) as needed.
+I am actually still working on extending this work, and therefore cannot publish the code here just yet. However, 
+for a decent overview of the work and ideas you can look at the poster at the bottom of this post, or email me!
 
 ---
 
-[**Paper (PDF)**](/assets/pdf/Brown_paper.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/)
+[**Poster (PDF)**](/assets/pdf/RIT_poster.pdf)
