@@ -2,7 +2,7 @@
 layout: page
 title: Evolving Bitstrings
 description: Did a short project randomly evolving bitstrings.
-img: assets/img/project_imgs/evo.png
+img: assets/img/project_imgs/evo.jpg
 importance: 2
 category: fun
 ---
