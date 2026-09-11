@@ -6,7 +6,7 @@ subtitle: Ever foreward, never backward.
 
 profile:
   align: right
-  image: Headshot1.JPG
+  image: Headshot1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href='#'>jackforeback@gmail.com</a>
