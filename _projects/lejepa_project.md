@@ -23,4 +23,4 @@ to create and test LeDreamer.
 
 ---
 
-[**Poster (PDF)**](/assets/pdf/lejepa_poster.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/LeDreamer-mc)
+[**Poster (PDF)**](/assets/pdf/LeJEPA_poster.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/LeDreamer-mc)
