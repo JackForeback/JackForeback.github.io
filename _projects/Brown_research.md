@@ -27,4 +27,4 @@ which helped develope my confidence and made me feel comfortable to take on new 
 
 ---
 
-[**Paper (PDF)**](/assets/pdf/Brown_paper.pdf) &nbsp;·&nbsp; [**Poster (PDF)**](/assets/pdf/Brown_paper.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/CIR)
+[**Paper (PDF)**](/assets/pdf/Brown_paper.pdf) &nbsp;·&nbsp; [**Poster (PDF)**](/assets/pdf/Brown_poster.pdf) &nbsp;·&nbsp; [**Code (GitHub)**](https://github.com/JackForeback/CIR)
